@@ -12,7 +12,7 @@ This Rust code reads an audio file named "audio.mp3" and sends it over UDP to a 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username/udp_send_audio_file.git
+   git clone https://github.com/icsboyx/udp_send_audio_file.git
    ```
 2. Change into the project directory:
    ```sh
