@@ -32,4 +32,4 @@ This Rust code reads an audio file named "audio.mp3" and sends it over UDP to a 
 -
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.mit.edu/~amini/LICENSE.md) for detail.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) for detail.
